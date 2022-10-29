@@ -19,4 +19,4 @@ Telephone Directory is a project that completely built with phyton and it is cap
  
  >Contact:
   - My name : Thiruvenkata Balaji
-  - Project link : 
+  - Project link : https://github.com/Thiruvenkatabalaji/Telephone-Directory-CURD-Operation/blob/main/Telephone%20Directory%20CRUD%20Operation.ipynb
